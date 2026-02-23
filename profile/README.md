@@ -5,20 +5,24 @@ Whether you're new to web scraping or scaling advanced data pipelines, you’ll 
 ---
 ### 1️⃣ Read the Official Documentation  
 Start with the **Zyte API docs**:  
-👉 https://docs.zyte.com/
+📜 https://docs.zyte.com/
 
 ### 2️⃣ Get Your API Key  
 You’ll need a Zyte API key to run most examples.  
 Create an account here:  
-👉 https://app.zyte.com/account/signup/zyteapi
+🗝️ https://app.zyte.com/account/signup/zyteapi
 
 ---
 
-## 🤖 Write Scrapers Faster
+## Write Scrapers Faster
 Need help building spiders?
 
 Try **Web Scraping Copilot (VS Code Extension)**:  
-👉 https://www.zyte.com/products/web-scraping-copilot/
+✍🏻 https://www.zyte.com/products/web-scraping-copilot/
+
+## Want to host and scale your spiders in production?
+Consider **Scrapy Cloud**:  
+☁️ https://www.zyte.com/scrapy-cloud/
 
 ---
 
