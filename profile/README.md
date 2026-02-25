@@ -2,6 +2,8 @@ Zyte Labs is created to help developers and web scrapers get started faster, exp
 
 Whether you're new to web scraping or scaling advanced data pipelines, you’ll find working examples here that you can clone, modify, and extend.
 
+This repo is run by the Developer Advocacy team at Zyte and contains our projects and demos as a showcase, and is for educational purposes only.
+
 ---
 ### 1️⃣ Read the Official Documentation  
 Start with the **Zyte API docs**:  
