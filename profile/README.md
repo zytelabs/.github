@@ -1,4 +1,4 @@
-Zyte-Labs is created to help developers and web scrapers get started faster, experiment confidently, and build web-scraping workflows using Zyte’s tools.
+Zyte Labs is created to help developers and web scrapers get started faster, experiment confidently, and build web-scraping workflows using Zyte’s tools.
 
 Whether you're new to web scraping or scaling advanced data pipelines, you’ll find working examples here that you can clone, modify, and extend.
 
